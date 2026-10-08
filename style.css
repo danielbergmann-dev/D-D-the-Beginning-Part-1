@@ -2,3 +2,9 @@
 .combat-dialog{max-height:58svh}.combat-dialog .dialog-inner{padding:14px 18px}.combat-dialog .dialog-body h2{font-size:23px;margin:7px 0 10px}.combat-dialog .dialog-body p{font-size:11px;line-height:1.5;margin-bottom:8px}.combat-dialog .choices{grid-template-columns:1fr 1fr;gap:7px;margin-top:10px}.combat-dialog .choice{font-size:11px;padding:10px;min-height:48px}.combat-dialog .choice:last-child{grid-column:1/-1}.combat-dialog .combat-bar{margin:8px 0}.combat-dialog::backdrop{backdrop-filter:none;background:#07161b33}
 /* Let the world occupy the available phone screen instead of leaving a blank footer. */
 #game{height:100svh;display:flex;flex-direction:column}.game-header,.game-footer{flex-shrink:0}.world-frame{flex:1;aspect-ratio:auto;min-height:260px;height:0}@media(min-width:700px){#game{height:calc(100svh - 40px);min-height:720px}.world-frame{max-height:none}}
+
+/* Narrative has no chapter banners or repeated scene titles. */
+.story-dialog .dialog-top {display:none}
+.story-dialog .dialog-body {padding-top:26px}
+.bottom-nav {grid-template-columns:repeat(2,1fr)}
+#dice-dialog [hidden],#dialog [hidden] {display:none!important}

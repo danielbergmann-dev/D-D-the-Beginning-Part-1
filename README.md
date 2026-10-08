@@ -1,10 +1,10 @@
 # Nebelpfad – Die letzte Laterne
 
-Ein atmosphärisches, deutschsprachiges Solo-Rollenspiel für Handy und Tablet. **Teil I: Das Versprechen** ist ein abgeschlossenes erstes Kapitel mit drei Enden und vorbereiteter Kontinuität für weitere Teile.
+Ein atmosphärisches, deutschsprachiges Solo-Rollenspiel für Handy und Tablet. **Teil I: Dornwacht** ist ein abgeschlossenes erstes Kapitel mit drei Enden und vorbereiteter Kontinuität für weitere Teile.
 
 ## Spielen
 
-Statische Web-App: kein Konto, kein Server, keine API-Schlüssel, keine Laufzeit-Abhängigkeiten. Bewegliche Figuren auf vier gemalten Schauplätzen, Tippen-zum-Laufen mit Wegfindung, Würfelanimation, Begleiterin Mara, optionale Kämpfe, Tagebuch und automatische lokale Speicherung. Auf dem Startbildschirm installierbar und nach vollständigem Erstladen offline nutzbar.
+Statische Web-App: kein Konto, kein Server, keine API-Schlüssel, keine Laufzeit-Abhängigkeiten. Beweglicher Held auf vier gemalten Schauplätzen, Tippen-zum-Laufen mit Wegfindung, Würfelanimation, optionale Kämpfe, Tagebuch und automatische lokale Speicherung. Auf dem Startbildschirm installierbar und nach vollständigem Erstladen offline nutzbar.
 
 ### GitHub Pages
 
@@ -24,12 +24,12 @@ Im Browser http://localhost:4173 öffnen. Nicht per file:// öffnen, da JavaScri
 
 ## Steuerung
 
-- Weg antippen: laufen, Mara folgt.
+- Weg antippen: allein laufen.
 - Markierten Ort antippen: hinlaufen und untersuchen.
 - **Orte**: gleichwertige Alternative über große Buttons, auch für Tastaturbedienung.
 - Pfeiltasten / WASD: Bewegung auf dem Desktop.
 - Würfel: antippen, Ergebnis lesen, weiter.
-- Kampf: rundenbasiert. Angriff, Hilfe/Deckung, Ausweichen, Heiltrank oder Rückzug.
+- Kampf: rundenbasiert. Angriff, Vorbereitung/Deckung, Ausweichen, Heiltrank oder Rückzug.
 - **Tagebuch**: Hinweise und letzte Würfe. **Held**: Werte, Gepäck und Regeln.
 - **Menü → Spielstand sichern**: JSON-Export. Derselbe Export enthält das Vermächtnis für spätere Teile.
 
@@ -37,7 +37,7 @@ Im Browser http://localhost:4173 öffnen. Nicht per file:// öffnen, da JavaScri
 
 Vier Schauplätze, drei Einsteigerprofile, mehrere Fertigkeitsproben, ein optionaler Wächterkampf, drei Ausgänge. Dies ist ein kompakter erster spielbarer Teil, keine große offene Welt. Die komplette SRD-Regelpalette ist bewusst nicht implementiert.
 
-SRD-Regelkern: W20 + Modifikator gegen Schwierigkeit / Rüstung; Vorteil und Nachteil; Initiative; kritische Angriffstreffer; Schadenswürfel. Ausdrückliche Hausregeln: feste Profile, vereinfachte Bewegung und Rast, Maras Hilfe plus Deckung, Rettung bei Niederlage. Siehe [Regeln](docs/RULES.md).
+SRD-Regelkern: W20 + Modifikator gegen Schwierigkeit / Rüstung; Vorteil und Nachteil; Initiative; kritische Angriffstreffer; Schadenswürfel. Ausdrückliche Hausregeln: feste Profile, vereinfachte Bewegung und Rast, Vorbereitung in Deckung, Erholung nach Niederlage. Siehe [Regeln](docs/RULES.md).
 
 ## Projektstruktur
 
@@ -63,7 +63,7 @@ Nur localStorage auf dem verwendeten Gerät. Keine Analyse, Werbung, Konten oder
 
 ## Ausblick
 
-Teil II führt nach Aschenhafen. Unterschiedliche Ausgangslagen des Endes, Maras Verhältnis zum Helden und Ivens Versorgung sind im Export enthalten. Teil II selbst ist noch nicht implementiert. Vor einer größeren Erweiterung sollten echte Touch-Tests auf iOS/Android, aufwendigere Charakteranimationen und taktische Bewegung im Kampf folgen.
+Teil II führt nach Aschenhafen. Unterschiedliche Ausgangslagen des Endes, der Umgang mit dem Wächter, Runas Brief, der Erinnerungsverlust und Ivens Versorgung sind im Export enthalten. Teil II selbst ist noch nicht implementiert. Vor einer größeren Erweiterung sollten echte Touch-Tests auf iOS/Android, aufwendigere Charakteranimationen und taktische Bewegung im Kampf folgen.
 
 ## Urheber und Regelgrundlage
 

@@ -1,58 +1,42 @@
-# Story Bible — Spoiler
+# Nebelpfad — Solo-Neufassung, Revision 2
 
-## Leitmotiv
+## Erzählperspektive
 
-Schutz rechtfertigt nicht jede Form von Besitz. Gute Absichten sind kein Ersatz für fortgesetzte Zustimmung. Mara muss lernen, den jungen Helden nicht durch Verschweigen zu schützen. Der Held muss lernen, eine Entscheidung unter unvollständigem Wissen zu tragen.
+Der junge Held reist allein. Kein dauerhafter Begleiter, kein Lehrdialog, keine Kapitelbanner in Ereignissen. Die Spielfigur weiß ausschließlich, was sie erlebt oder gelesen hat. Regeln sind freiwillig im Menü verfügbar. Neue Begleiter können erst in späteren Teilen nach einer ausgespielten Begegnung hinzukommen.
 
-## Verbindliche Chronologie
+## Feststehende Vergangenheit
 
-- Vor 17 Jahren bedrohte der Grausturm Dornwacht. Erwachsene unterzeichneten einen Vertrag: ein Leuchtfeuer gewährt Schutz, als jährlichen Preis geben Unterzeichner eine Erinnerung.
-- Runa, die Mutter des Helden, arbeitete am System. Sie entdeckte die schwindende Erinnerungsreserve und entwarf eine erneuerbare, freiwillige Verteilung. Mara, die damalige Wegwächterin, blockierte ihren Reformversuch aus Angst vor einem Ausfall des Schutzes.
-- Vor dem Verschwinden Runas: Sie hinterließ dem damals jüngeren Helden die Gegenzeichen-Laterne. Sie konnte sie nicht zum nächsten Leuchtfeuer mitnehmen, ohne den Wächter zu alarmieren. Dann reiste sie nach Aschenhafen; ihr heutiger Zustand bleibt unbekannt. Kein Todesbeweis und keine sichere Lebenszusage in Teil I.
-- Drei Tage vor Spielbeginn bestellt der Dorfrat Medizin auf gewöhnlichem Weg. Deshalb besitzt der Held einen Auftrag, obwohl das Dorf bei Ankunft verlassen ist.
-- Am Morgen des Spiels bringt Iven die vom Wächter angeforderte Verlängerung. Er versteht die Klausel „vollständige Deckung“ nicht. Der Wächter zieht nach 13 Glockenschlägen ganze Erinnerungsträger einschließlich nie zustimmender Kinder in den Speicher.
-- Wenig später flieht Iven, verletzt sich am Weg und wartet am Feuer. Der Held trifft ein. Warme Suppe und frisches Brot sind Spuren des heutigen Ereignisses, kein unerklärtes 17-jähriges Zeitphänomen.
+- Vor 17 Jahren bedrohte der Grausturm Dornwacht: Sein Staub löscht Erinnerungen. Ein Leuchtfeuer schützt das Tal und wird durch freiwillige Erinnerungen Erwachsener gespeist. Menschen als Pfand sind ausdrücklich ausgeschlossen.
+- Runa, die Mutter des Helden, untersuchte die Anlage. Vor drei Jahren warnte sie vor dem Bewahrungsmodus, der Menschen lebend zwischen Augenblicken festhält. Die Zentrale wollte ihn nicht ändern. Runa wollte nach Aschenhafen zur Anhörung. Ob sie ankam, lebt oder gefangen ist, bleibt offen.
+- Runas Gegenlaterne blieb zu Hause. Sie gewährt Wartungszugang, Kommunikation mit dem Speicher und eine unabhängige Vertragsprüfung. Sie enthält keine neue Botschaft und beweist nicht, dass Runa lebt.
+- Heute Morgen lieferte Iven einen Befehl der Zentrale zur Bewahrung. Die Reserve ist durch ausbleibende freiwillige Beiträge leer. Der Wächter führt einen rechtswidrigen, aber ausdrücklich bestätigten Befehl aus. Die Bewohner verschwinden beim Glockenschlag. Iven verletzt sich auf der Flucht am Steg.
+- Der Held erreicht am Nachmittag die Grenze. Die Fiebermittel wurden zuvor regulär bestellt; die Lieferung ist weder Falle noch eine Nachricht Runas. Zur Ankunft sind Herd und Mahlzeit kalt. Der spätere einzelne Glockenschlag ist keine weitere Bewahrung.
 
-## Was das Leuchtfeuer kann und nicht kann
+## Dramaturgie und Wissensfolge
 
-- Menschen werden in angehaltener Gegenwart gespeichert, nicht getötet oder zu Seelen gemacht.
-- Runas Laterne kann Stimmen und Antworten aus dem Speicher vermitteln. Am Brunnen ist diese Verbindung als Echo hörbar. Andere beliebige Gegenstände können dies nicht.
-- Der Wächter ist ein Ausleger des Vertrags, nicht der Energiekern. Ihn zu zerstören befreit niemanden automatisch und tötet keine Eingeschlossenen.
-- Abschalten beendet Schutz und Speicherbindung. Alle Menschen werden freigegeben.
-- Eine freiwillige prägende Erinnerung kauft sieben Nächte. Keine unbegrenzte Energie und kein zweites verborgenes Opfer. Die verlorene Stimme der Mutter lässt Gesicht und Fakten unangetastet.
-- Ein neuer Vertrag benötigt ursprüngliche Namen (Register), gegenwärtige Antworten (Brunnen) und Gegenzeichen (Laterne, erklärt durch Wandbild). Ablehnende werden ebenfalls befreit. Der Schutz wird schwächer, weil nur Freiwillige tragen. Erneuerung muss jährlich erneut beschlossen werden.
-- Kein Ende wird als perfekte, kostenfreie Lösung bezeichnet.
+1. Zuhause und Auftrag: Vater, erster Verdienst, seit drei Jahren vermisste Mutter, geerbte Laterne, eigenes Seil und getrennte Heiltränke.
+2. Weg: Iven ist optional. Seine Verletzung, das Verschwinden und der Zustellbeleg werden im Gespräch verständlich. Keine Fachbegriffe ohne sichtbaren Beleg. Am Grenzstein beginnt die Laterne zu reagieren.
+3. Dorf: Auftrag abliefern, Leere erleben, Stimme hören. Dorfbuch erklärt Sturm, Schutz, ursprünglichen Vertrag, Reservemangel und Zugangsskizze. Der Brunnen beweist, dass die Vermissten leben und nicht zustimmten. Beide Orte funktionieren in beliebiger Reihenfolge.
+4. Archiv: Wartungsnotizen erklären die drei Rettungswege und ihre Bedienung. Der optionale ungesendete Brief verbindet Runa mit Aschenhafen; die heutige Anweisung enthüllt die bewusste Verantwortung der Zentrale. Kein Geständnis eines Begleiters.
+5. Wächter: Vertrag plus Brunnen oder Wartungsnotizen erzwingen die Prüfung. Alternativ Überreden oder Kampf. Gegenlaterne berechtigt, garantiert aber nicht die Zustimmung des Wächters.
+6. Kern: Keine Endentscheidung ohne gelesene Wartungsnotizen. Das freiwillige Ende braucht zusätzlich den Brunnen. Alle Entscheidungen können vor Bestätigung revidiert werden.
+7. Epilog: Menschen kehren zurück. Ivens Ankunft/Abholung richtet sich nach tatsächlicher Hilfe; bei übersprungenem Lager wird er erstmals vorgestellt. Er und Elin ermöglichen auch ohne gefundenen Brief einen nachvollziehbaren Anschluss nach Aschenhafen.
 
-## Hinweisverteilung
+## Konsequenzen und Teil II
 
-1. Grenzstein: freiwilliger Vorausblick „Kein Name ohne Antwort“, optional; Erfolgswurf gibt Deutung, Misserfolg erhält Wortlaut durch Laterne.
-2. Iven: Anlass und Zustellung, optional; Verletzung verhindert die Haupthandlung nicht.
-3. Register: notwendiger Mindesthinweis für Kapelle und jede Hauptroute, ohne Würfel erhältlich.
-4. Brunnen: lebendige Stimmen und Kinder, optional für die zwei Grundenden, nötig für dritten Vertrag.
-5. Wandbild: Funktionsweise, Preis und Gegenzeichen, ohne Probe erhältlich.
-6. Mara: Beziehung und Vergangenheit, optional; Verzeihen ist keine Voraussetzung für ein „gutes“ Ende.
-
-## Folgen und Sackgassenprüfung
-
-- Medizinpäckchen und zwei Heiltränke sind unterschiedliche Ressourcen. Teilen mit Iven lässt einen Rest für die Heilstube. Kein Duplizieren von Tränken.
-- Misslungener Verband stabilisiert Iven; er bleibt am Feuer. Alle Endtexte berücksichtigen Hilfe und Bewegung plausibel.
-- Misslungener Sprung kostet 2 LP, mindestens 1 verbleibt; Mara hilft über den Steg.
-- Überredungsversuch am Wächter ist einmalig. Danach bleiben Beweisweg und Kampf offen.
-- Zwei unabhängige Beweise öffnen den Wächter ohne Wurf. Register + Wandbild sind jederzeit verfügbar. Kein Zwang, kämpferisch starke Profile zu wählen.
-- Niederlage führt ins Archiv zurück, ohne Hinweisverlust. Einmalige Rast und Rückzug sind Alternativen.
-- Frühere Gebiete bleiben bis zum Ende erreichbar. Fehlende dritte Beweise können nachgetragen werden.
-- Eine Endentscheidung wird separat bestätigt und danach nicht durch weiteres Erkunden überschrieben. Für andere Enden neuer Durchlauf oder vorher exportierter Spielstand.
-
-## Fortsetzung — noch nicht implementiert
-
-Gemeinsames Ziel: Leuchtfeuer II, Aschenhafen. Die globale Kampagne kann sieben miteinander verbundene Leuchtfeuer umfassen, ohne Teil I mit sieben Erklärungen zu belasten.
-
-| Ende | Ausgangslage für Teil II | Nicht rückwirkend auflösen |
+| Ende | Unmittelbare Folge | Ausgangslage für Teil II |
 |---|---|---|
-| release | Dorf frei, Grausturm bedroht die Straße; Signal führt nach Aschenhafen | Schutz darf nicht kommentarlos zurückkehren |
-| renew | Sieben Nächte bis Schutzende; Mutterstimme verloren | Kein kostenloses Erinnerungsheilmittel in der ersten Szene |
-| share | Freiwilliger, schwächerer Schutz; Gegenzeichnung aus Aschenhafen angefordert | Ablehnende bleiben frei, kein versteckter Zwang |
+| Abschalten | Erst Menschen lösen, dann Kern löschen. Kein Schutz. | Dorf bereitet Flucht vor. Held sucht in Aschenhafen Antworten und Schutz. |
+| Erinnerung | Alle frei; Stimme der Mutter aus sämtlichen eigenen Erinnerungen verloren. Gesicht und Wissen bleiben. | Sieben Nächte ab Opfer, nach der ersten Nacht sechs. Aschenhafen liegt zwei Tagesmärsche entfernt. Dorf bereitet zugleich Evakuierung vor. |
+| Freiwilliger Vertrag | Alle frei, auch Ablehnende und Kinder. Nur einwilligungsfähige Erwachsene geben freiwillig. | Schwächerer Schutz; erneute Zustimmung bei jeder Verlängerung. Verantwortung der Zentrale bleibt ungeklärt. |
 
-Runas Name mit morgigem Datum ist ein offenes Mysterium, kein Lebensbeweis. Mögliche spätere Erklärung: zeitversetztes Register oder jemand mit Zugriff auf ihr Gegenzeichen. Vor Teil II muss eine Erklärung kanonisch festgelegt werden. Ein „alles war nur ein Traum“-Reset ist ausgeschlossen.
+Fortsetzungsdaten: Name, Profil, Ende, verlorene Stimme, friedlicher/besiegter Wächter, Ivens Hilfe, gefundener Brief, gesammelte Belege. Keine Aussage behauptet, Teil II sei bereits spielbar. Der Status Runas darf erst nach neuen Beweisen aufgelöst werden.
 
-Exportierte Kontinuität: Ende, Verzeihen/Abstand zu Mara, Ivens Versorgung, Beweise, Profil, Name. Teil II soll diese Eingänge in Szenen und Aufgaben verarbeiten, ohne drei vollständige Parallelspiele zu erzwingen. Beziehungen dürfen ambivalent bleiben.
+## Sackgassen und Wiederholungen
+
+- Steg mit eigenem Seil ohne Zufall; gescheiterter Sprung verursacht 2 LP Schaden (mindestens 1 LP), danach wird das eigene Seil befestigt.
+- Gescheiterter Verband stabilisiert, heilt aber nicht; Medizin kann später gegeben werden.
+- Gescheiterte Inschrift verhindert keine Enden. Kein Vorteil durch unsichtbare Helfer.
+- Wiederbesuche wiederholen weder Lieferung noch erste Entdeckung.
+- Wächter verfolgt den Helden nicht durch die schmale Nische. Niederlage führt zu eigener Wundversorgung bei halben LP. Eine Rast steht unabhängig von Personen zur Verfügung.
+- Alter Spielstand: Position und relevante Entscheidungen bleiben; Begleiterflags entfallen. Alte Tagebucheinträge werden durch konsistente Zusammenfassungen ersetzt. Ein sichtbarer Hinweis empfiehlt eine neue Reise für den vollständigen Einstieg.
