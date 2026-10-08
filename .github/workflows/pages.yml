@@ -1,0 +1,53 @@
+name: Test and deploy adventure
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - name: Install browser test tools
+        run: |
+          npm install --no-save playwright@1.62.1
+          npx playwright install --with-deps chromium
+      - name: Exercise mobile interface
+        run: node tests/ui-smoke.cjs
+      - name: Save visual checks
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mobile-preview
+          path: test-results/
+      - name: Assemble public game
+        run: |
+          mkdir -p public/assets
+          cp NOTICE.md index.html style.css app.mjs engine.mjs story.mjs world.mjs manifest.webmanifest sw.js public/
+          cp assets/worlds.webp assets/icon.svg assets/icon-192.png assets/icon-512.png public/assets/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: test
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+      - name: Publish
+        id: deployment
+        uses: actions/deploy-pages@v4
